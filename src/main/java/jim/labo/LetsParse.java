@@ -1,6 +1,5 @@
 package jim.labo;
 
-import java.io.IOException;
 import java.io.InputStream;
 
 public class LetsParse {
