@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8">
+<clients>
+	<fiche-client toto="un attribut toto">
+		<nom>Rakotomalala</nom>
+		<prenom>Patrick</prenom>
+	</fiche-client>
+	<fiche-client toto="un autre toto">
+		<nom>Pericard</nom>
+		<prenom>Sebastien</prenom>
+	</fiche-client>
+	<fiche-client>
+		<!-- Celui ci n'a pas d'attribut toto -->
+		<nom>Dupont</nom>
+		<prenom>Paul</prenom>
+	</fiche-client>
+</clients>
